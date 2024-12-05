@@ -22,10 +22,11 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-
+<!--
 ### GitHub Stats
 
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=landiinii&hide=html,css&hide_border=true&layout=compact&langs_count=6&exclude_repo=C-Based&text_color=fff&icon_color=fff&bg_color=151515" />
+-->
 
 <!--
 **landiinii/landiinii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
