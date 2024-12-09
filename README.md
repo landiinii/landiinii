@@ -1,27 +1,26 @@
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Golang](https://img.shields.io/badge/-Golang-000?&logo=Golang)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=SQLite&logoColor=003B57)
+![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby&logoColor=CC342D)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+![Swift](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=02569B)
 
 ### Technologies
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonwebservices&logoColor=F90)
+![Snowflake](https://img.shields.io/badge/-Snowflake-000?&logo=snowflake)
+![DBT](https://img.shields.io/badge/-DBT-000?&logo=DBT)
+![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=streamlit)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Postgres](https://img.shields.io/badge/-Postgres-000?&logo=postgresql)
+![DuckDB](https://img.shields.io/badge/-DuckDB-000?&logo=DuckDB)
+
+
+
 
 <!--
 ### GitHub Stats
